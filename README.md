@@ -1,1 +1,1 @@
-# CS-803-IPCV-notes
+# Image Processing & Computer Vision notes
