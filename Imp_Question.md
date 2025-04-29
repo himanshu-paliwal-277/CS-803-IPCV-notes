@@ -37,7 +37,7 @@
 
 ## Q.4 Discuss in detail boundary descriptors of image processing.
 
-## Q.5 How to evaluate extracted shape descriptors Discuss.
+## Q.5 How to evaluate extracted shape descriptors in 3D? Discuss.
 
 ## Q.6 What is Thresholding? Discuss its use and also write its limitations.
 
