@@ -4,16 +4,15 @@
 
 ## Q.1 Explain the concepts of computer vision does it require in image processing.
 
-## Q.2 What is digital image. What do go you and mean by image sampling quantization?
+## Q.2 What is digital image. What do go you and mean by image sampling and quantization?
 
-## Q.3 What are the different types of computer vision model. Explain in detail.?
+## Q.3 What are the different types of computer vision model. Explain in detail?
 
-## Q.4 Discuss in detail about various types. of image filtering technique
+## Q.4 Discuss in detail about various types of image filtering technique.
 
-## Q.5 Describe various elements of digital image processing system
+## Q.5 Describe various elements of digital image processing system.
 
 ## Q.6 Explain following operations-
-
 - Diletion
 - Erosion
 - Closing
