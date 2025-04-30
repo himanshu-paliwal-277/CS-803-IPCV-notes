@@ -63,7 +63,7 @@
 
 ## Q.3 Compare weak perspective projection and orthographic projection models in affine projection models.
 
-## Q.4 Explain in brief how photogrammetric processing is done from 20 to 3D.
+## Q.4 Explain in brief how photogrammetric processing is done from 2D to 3D.
 
 ## Q.5 What is image intensity in image processing & Discuss in be the intensity matching of 1D signals in an image.
 
