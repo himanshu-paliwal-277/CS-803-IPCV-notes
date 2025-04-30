@@ -138,7 +138,7 @@ Computer vision aims to enable machines to "see" and interpret the world like hu
 
 ---
 
-## Q.2 What is digital image. What do go you and mean by image sampling and quantization?
+## Q.2 What is digital image. What do you mean by image sampling and quantization?
 
 ## Digital Image, Image Sampling and Quantization
 

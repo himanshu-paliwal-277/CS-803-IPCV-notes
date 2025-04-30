@@ -4,7 +4,7 @@
 
 ## Q.1 Explain the concepts of computer vision does it require in image processing.
 
-## Q.2 What is digital image. What do go you and mean by image sampling and quantization?
+## Q.2 What is digital image. What do you mean by image sampling and quantization?
 
 ## Q.3 What are the different types of computer vision model. Explain in detail?
 
